@@ -37,7 +37,7 @@
         android:ems="10"
         android:inputType="text"
         android:textSize="12sp"
-        android:text="Name"
+        android:hint="Name"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/logo" />
@@ -49,7 +49,7 @@
         android:textSize="12sp"
         android:ems="10"
         android:inputType="textPassword"
-        android:text="Password"
+        android:hint="Password"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/name" />
